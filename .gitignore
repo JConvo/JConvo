@@ -3,3 +3,4 @@ out/
 JConvo-client/*.iml
 JConvo-commons/*.iml
 JConvo-server/*.iml
+/.idea/
